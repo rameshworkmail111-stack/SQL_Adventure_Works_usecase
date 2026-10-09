@@ -1,0 +1,16 @@
+﻿.env
+*.env
+config.local.*
+*.pem
+*.dump
+*.backup
+*-prod.sql
+*-production.sql
+*.db
+*.sqlite
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
